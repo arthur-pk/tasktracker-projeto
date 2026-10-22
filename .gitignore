@@ -1,0 +1,14 @@
+```plaintext
+# Ficheiros temporarios do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Ficheiros do editor/IDE
+.vscode/
+.idea/
