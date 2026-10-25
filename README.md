@@ -18,8 +18,11 @@ O **TaskTracker** é um sistema interativo CLI (*Command Line Interface*) desenh
 
 ## 📁 Estrutura do Repositório
 Projeto - TaskTracker 
+
+READ.me - Descrição do projeto 
+
 - Docs
   Etapa 1 - Planejamento Lógico
 - Src
   Etapa 2 - main.py
-READ.me - Descrição do projeto 
+
