@@ -25,4 +25,6 @@ READ.me - Descrição do projeto
   Etapa 1 - Planejamento Lógico
 - Src
   Etapa 2 - main.py
+- Docker file
+  Etapa 3 - docker file e docker-compose.yml
 
