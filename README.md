@@ -1,4 +1,4 @@
-# TaskTracker CLI 📋
+# TaskTracker CLI 
 
 > Aplicação em linha de comando desenvolvida em Python para gestão de tarefas diárias.
 > **Bootcamp II - Fase 2**
@@ -11,17 +11,15 @@ O **TaskTracker** é um sistema interativo CLI (*Command Line Interface*) desenh
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem:** Python 3.x
-- **Controlo de Versão:** Git & GitHub
+- **Linguagem:** Python 3.11
+- **Controle de Versão:** Git & GitHub
 
 ---
 
 ## 📁 Estrutura do Repositório
-```plaintext
-tasktracker-projeto/
-├── README.md                # Documentação do projeto
-├── .gitignore               # Regras para ignorar ficheiros temporários
-├── docs/
-│   └── planejamento_logico.pdf # Documento da Fase 1
-└── src/
-    └── main.py              # Código-fonte principal em Python
+Projeto - TaskTracker 
+- Docs
+  Etapa 1 - Planejamento Lógico
+- Src
+  Etapa 2 - main.py
+READ.me - Descrição do projeto 
